@@ -65,18 +65,25 @@ Our solution empowers **smart contracts** to:
 
 ## 📸 Screenshots  
 
-### 🔹 Oracle AML Service Running  
-![WhatsApp Image 2025-09-22 at 10 30 34 (2)](https://github.com/user-attachments/assets/6483c4e7-2154-483d-9455-5807f8156d09)
+### 🔹 Oracle AML Service Running
+![WhatsApp Image 2025-09-22 at 10 30 33](https://github.com/user-attachments/assets/69820f2d-ad9d-411b-8ba2-964d788b7802)
 
 
-### 🔹 Block Finalization & Transaction Proposals  
-![Consensus Logs](https://ibb.co/mV3cqcjX)  
+
+### 🔹 Block Finalization & Transaction Proposals 
+![WhatsApp Image 2025-09-22 at 10 30 34 (1)](https://github.com/user-attachments/assets/f3c13e6d-7b0f-4ef5-ab15-7b8cef70ab64)
+
+
 
 ### 🔹 Transaction History Retrieval (JSON Format)  
-![Transaction History](https://ibb.co/ymfXC2cP)  
+![WhatsApp Image 2025-09-22 at 10 30 34 (2)](https://github.com/user-attachments/assets/4f0bbb8c-3358-4403-a3b3-a4f3f87ff193)
+
+
 
 ### 🔹 AML Risk Check Responses  
-![AML Service Response](https://ibb.co/RT53SLLs)  
+![Uploading WhatsApp Image 2025-09-22 at 10.30.34.jpeg…]()
+
+
 
 ---
 
