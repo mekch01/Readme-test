@@ -81,7 +81,7 @@ Our solution empowers **smart contracts** to:
 
 
 ### 🔹 AML Risk Check Responses  
-![Uploading WhatsApp Image 2025-09-22 at 10.30.34.jpeg…]()
+![WhatsApp Image 2025-09-22 at 10 30 34](https://github.com/user-attachments/assets/49dee64c-1439-4080-ac79-5a5efd52e60c)
 
 
 
