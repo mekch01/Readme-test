@@ -66,7 +66,8 @@ Our solution empowers **smart contracts** to:
 ## 📸 Screenshots  
 
 ### 🔹 Oracle AML Service Running  
-![Oracle AML Service](https://ibb.co/RT53SLLs)  
+![WhatsApp Image 2025-09-22 at 10 30 34 (2)](https://github.com/user-attachments/assets/6483c4e7-2154-483d-9455-5807f8156d09)
+
 
 ### 🔹 Block Finalization & Transaction Proposals  
 ![Consensus Logs](https://ibb.co/mV3cqcjX)  
