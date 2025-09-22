@@ -65,11 +65,6 @@ Our solution empowers **smart contracts** to:
 
 ## 📸 Screenshots  
 
-https://ibb.co/mV3cqcjX
-https://ibb.co/yFqJFkTb
-https://ibb.co/ymfXC2cP
-https://ibb.co/RT53SLLs
-
 ### 🔹 Oracle AML Service Running  
 ![Oracle AML Service](https://ibb.co/RT53SLLs)  
 
