@@ -100,4 +100,4 @@ Our solution empowers **smart contracts** to:
 ---
 
 ## 👥 Team  
-Built with ❤️ for the Hackathon.  
+Built by TEAM SMD .  
